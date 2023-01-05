@@ -9,11 +9,11 @@ React Native's own [docs](https://reactnative.dev/docs/0.61/optimizing-flatlist-
 # Installation
 
 ```
-yarn add @arthurgeron/eslint-plugin-react-usememo --dev
+yarn add @michael1997/eslint-plugin-react-usememo --dev
 ```   
 or   
 ```
-npm install @arthurgeron/eslint-plugin-react-usememo --save-dev
+npm install @michael1997/eslint-plugin-react-usememo --save-dev
 ```
 
 
@@ -21,13 +21,13 @@ npm install @arthurgeron/eslint-plugin-react-usememo --save-dev
 
 To enable the plugin add the following to the `plugin` property  your `eslintrc` file:
 ```json
-"plugins": ["@arthurgeron/react-usememo"],
+"plugins": ["@michael1997/react-usememo"],
 ```
 
 Then enable any rules as you like, example:
 ```json
 "rules": {
-    "@arthurgeron/react-usememo/require-usememo": [2],
+    "@michael1997/react-usememo/require-usememo": ["warn"],
 },
 ```
 # Rules   

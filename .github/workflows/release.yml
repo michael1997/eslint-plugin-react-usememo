@@ -130,7 +130,7 @@ jobs:
           cache: 'yarn'
           cache-dependency-path: '**/yarn.lock'
           registry-url: 'https://registry.npmjs.org'
-          scope: '@arthurgeron'
+          scope: '@michael1997'
 
       - name: Restore node_modules
         uses: actions/cache@v3

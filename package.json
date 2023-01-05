@@ -1,12 +1,12 @@
 {
-  "name": "@arthurgeron/eslint-plugin-react-usememo",
+  "name": "@michael1997/eslint-plugin-react-usememo",
   "version": "0.1.1",
   "description": "",
   "main": "dist/index.js",
-  "author": "Stefano J. Attardi <github@attardi.org> & Arthur Geron <github@arthurgeron.org",
+  "author": "Stefano J. Attardi <github@attardi.org> & Arthur Geron <github@arthurgeron.org & Michael Moore <michael@endla.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arthurgeron/eslint-plugin-react-usememo.git"
+    "url": "https://github.com/michael1997/eslint-plugin-react-usememo.git"
   },
   "license": "MIT",
   "devDependencies": {
